@@ -1,4 +1,4 @@
-# Spring Boot and Camel REST / SQL QuickStart
+# Spring Boot and Camel REST / SQL QuickStart (for SISPI)
 
 This example demonstrates how to use SQL via JDBC along with Camel's REST DSL to expose a RESTful API.
 
